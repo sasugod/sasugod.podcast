@@ -13,22 +13,12 @@
 <image><url>https://sasugod.github.io/podcast/cover.jpg</url><title>槓古說不盡｜四大名著公式拆解</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Thu, 18 Jun 2026 08:42:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 08:43:16 +0000</lastBuildDate>
 <atom:link href="https://sasugod.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>《三國演義》第1集：桃園三結義，最穩的三角形</title>
-<guid isPermaLink="false">sangguo-Ep001</guid>
-<pubDate>Thu, 18 Jun 2026 02:03:42 +0000</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep001.mp3" length="1345392" type="audio/mpeg"/>
-<itunes:duration>3:44</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<description>《三國演義》第1集：桃園三結義，最穩的三角形。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
-<itunes:summary>《三國演義》第1集：桃園三結義，最穩的三角形。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
-</item>
 <item>
 <title>《三國演義》第3集：李肅說呂布，一匹馬換來的叛變</title>
 <guid isPermaLink="false">sangguo-Ep003</guid>
-<pubDate>Thu, 18 Jun 2026 00:01:18 +0000</pubDate>
+<pubDate>Thu, 18 Jun 2026 08:00:00 +0800</pubDate>
 <enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep003.mp3" length="2166309" type="audio/mpeg"/>
 <itunes:duration>3:48</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -38,12 +28,22 @@
 <item>
 <title>《三國演義》第2集：一道令，三十六個月的崩塌</title>
 <guid isPermaLink="false">sangguo-Ep002</guid>
-<pubDate>Mon, 15 Jun 2026 15:49:00 +0000</pubDate>
+<pubDate>Wed, 17 Jun 2026 08:00:00 +0800</pubDate>
 <enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep002.mp3" length="2118453" type="audio/mpeg"/>
 <itunes:duration>3:54</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <description>《三國演義》第2集：一道令，三十六個月的崩塌。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
 <itunes:summary>《三國演義》第2集：一道令，三十六個月的崩塌。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
+<item>
+<title>《三國演義》第1集：桃園三結義，最穩的三角形</title>
+<guid isPermaLink="false">sangguo-Ep001</guid>
+<pubDate>Tue, 16 Jun 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep001.mp3" length="1345392" type="audio/mpeg"/>
+<itunes:duration>3:44</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第1集：桃園三結義，最穩的三角形。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第1集：桃園三結義，最穩的三角形。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
 </item>
 </channel>
 </rss>
