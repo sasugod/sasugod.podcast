@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>經典文學・有聲劇場（中文）</title>
+<link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link>
+<language>zh-TW</language>
+<description>世界經典文學的中文有聲劇場。道林格雷的虛榮、變形記的異化、化身博士的雙面——用當代視角重述百年經典，一集一部，閉著眼也能把名著聽進腦袋。</description>
+<itunes:summary>世界經典文學的中文有聲劇場。道林格雷的虛榮、變形記的異化、化身博士的雙面——用當代視角重述百年經典，一集一部，閉著眼也能把名著聽進腦袋。</itunes:summary>
+<itunes:author>SASUGOD 經典文學</itunes:author>
+<itunes:type>episodic</itunes:type>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://sasugod.github.io/podcast/classic-zh/cover.jpg"/>
+<image><url>https://sasugod.github.io/podcast/classic-zh/cover.jpg</url><title>經典文學・有聲劇場（中文）</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
+<itunes:category text="Arts"/>
+<itunes:owner><itunes:name>SASUGOD 經典文學</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
+<lastBuildDate>Thu, 18 Jun 2026 08:59:46 +0000</lastBuildDate>
+<atom:link href="https://sasugod.github.io/podcast/classic-zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The Picture of Dorian Gray</title>
+<guid isPermaLink="false">classic-zh-dorian_gray</guid>
+<pubDate>Tue, 16 Jun 2026 23:03:14 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/dorian_gray.mp3" length="15932304" type="audio/mpeg"/>
+<itunes:duration>16:35</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>The Picture of Dorian Gray。The Picture of Dorian Gray——虛榮、濾鏡、永保青春與社群形象。世界經典的中文有聲劇場。</description>
+<itunes:summary>The Picture of Dorian Gray。The Picture of Dorian Gray——虛榮、濾鏡、永保青春與社群形象。世界經典的中文有聲劇場。</itunes:summary>
+</item>
+<item>
+<title>MOBY-DICK or THE WHALE</title>
+<guid isPermaLink="false">classic-zh-MOBY_DICK_or_THE_WHALE</guid>
+<pubDate>Mon, 15 Jun 2026 20:06:13 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/MOBY_DICK_or_THE_WHALE.mp3" length="20628512" type="audio/mpeg"/>
+<itunes:duration>21:29</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>MOBY-DICK or THE WHALE。《MOBY-DICK or THE WHALE》中文有聲劇場。</description>
+<itunes:summary>MOBY-DICK or THE WHALE。《MOBY-DICK or THE WHALE》中文有聲劇場。</itunes:summary>
+</item>
+<item>
+<title>Frankenstein</title>
+<guid isPermaLink="false">classic-zh-Frankenstein</guid>
+<pubDate>Mon, 15 Jun 2026 10:14:35 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/Frankenstein.mp3" length="21625763" type="audio/mpeg"/>
+<itunes:duration>22:31</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>Frankenstein。Frankenstein——科技創造者責任、AI 與科技巨嬰。世界經典的中文有聲劇場。</description>
+<itunes:summary>Frankenstein。Frankenstein——科技創造者責任、AI 與科技巨嬰。世界經典的中文有聲劇場。</itunes:summary>
+</item>
+</channel>
+</rss>

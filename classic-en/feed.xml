@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Classic Literature — Audio Theatre</title>
+<link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link>
+<language>en</language>
+<description>Timeless world classics, retold as audio theatre. Dorian Gray's vanity, Kafka's alienation, Jekyll and Hyde's double life — one work per episode, for listening with your eyes closed.</description>
+<itunes:summary>Timeless world classics, retold as audio theatre. Dorian Gray's vanity, Kafka's alienation, Jekyll and Hyde's double life — one work per episode, for listening with your eyes closed.</itunes:summary>
+<itunes:author>SASUGOD Classics</itunes:author>
+<itunes:type>episodic</itunes:type>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://sasugod.github.io/podcast/classic-en/cover.jpg"/>
+<image><url>https://sasugod.github.io/podcast/classic-en/cover.jpg</url><title>Classic Literature — Audio Theatre</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
+<itunes:category text="Arts"/>
+<itunes:owner><itunes:name>SASUGOD Classics</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
+<lastBuildDate>Thu, 18 Jun 2026 09:00:14 +0000</lastBuildDate>
+<atom:link href="https://sasugod.github.io/podcast/classic-en/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The Picture of Dorian Gray</title>
+<guid isPermaLink="false">classic-en-dorian_gray</guid>
+<pubDate>Wed, 17 Jun 2026 08:22:27 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/dorian_gray.mp3" length="15932304" type="audio/mpeg"/>
+<itunes:duration>16:35</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>The Picture of Dorian Gray — An audio-theatre retelling of «The Picture of Dorian Gray».</description>
+<itunes:summary>The Picture of Dorian Gray — An audio-theatre retelling of «The Picture of Dorian Gray».</itunes:summary>
+</item>
+<item>
+<title>MOBY-DICK or THE WHALE</title>
+<guid isPermaLink="false">classic-en-MOBY_DICK_or_THE_WHALE</guid>
+<pubDate>Mon, 15 Jun 2026 20:06:17 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/MOBY_DICK_or_THE_WHALE.mp3" length="20628512" type="audio/mpeg"/>
+<itunes:duration>21:29</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>MOBY-DICK or THE WHALE — An audio-theatre retelling of «MOBY-DICK or THE WHALE».</description>
+<itunes:summary>MOBY-DICK or THE WHALE — An audio-theatre retelling of «MOBY-DICK or THE WHALE».</itunes:summary>
+</item>
+<item>
+<title>Frankenstein</title>
+<guid isPermaLink="false">classic-en-Frankenstein</guid>
+<pubDate>Mon, 15 Jun 2026 10:14:04 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/Frankenstein.mp3" length="21625763" type="audio/mpeg"/>
+<itunes:duration>22:31</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>Frankenstein — An audio-theatre retelling of «Frankenstein».</description>
+<itunes:summary>Frankenstein — An audio-theatre retelling of «Frankenstein».</itunes:summary>
+</item>
+</channel>
+</rss>
