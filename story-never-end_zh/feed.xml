@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>槓古說不盡｜四大名著 × 世界經典</title>
+<title>槓古說不盡｜用現代人的角度解讀經典</title>
 <link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link>
 <language>zh-TW</language>
 <description>用一條「公式」，拆穿經典的人心與權局。四大名著的算計與興衰、世界文學的虛榮與異化——每集把一段古典情節拆成一條看得懂的公式，讓千年故事像新聞快報一樣好聽好懂。每日更新，通勤睡前閉著眼也能把名著聽進腦袋。</description>
@@ -10,10 +10,10 @@
 <itunes:type>episodic</itunes:type>
 <itunes:explicit>false</itunes:explicit>
 <itunes:image href="https://podcast.sasugod.com/story-never-end_zh/cover.jpg"/>
-<image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜四大名著 × 世界經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
+<image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的角度解讀經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Thu, 18 Jun 2026 09:13:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 10:06:23 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>《三國演義》第3集：李肅說呂布，一匹馬換來的叛變</title>
