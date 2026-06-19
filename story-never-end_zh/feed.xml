@@ -13,14 +13,24 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Fri, 19 Jun 2026 02:22:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 10:05:28 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《三國演義》第5集：三英戰呂布，三打一真的有用嗎？</title>
+<guid isPermaLink="false">sangguo-Ep005</guid>
+<pubDate>Sat, 20 Jun 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep005.mp3" length="3379053" type="audio/mpeg"/>
+<itunes:duration>6:59</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第5集：三英戰呂布，三打一真的有用嗎？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第5集：三英戰呂布，三打一真的有用嗎？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>時間機器</title>
 <guid isPermaLink="false">classic-zh-time_machine</guid>
-<pubDate>Fri, 19 Jun 2026 09:49:31 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/time_machine.mp3" length="24577296" type="audio/mpeg"/>
-<itunes:duration>25:36</itunes:duration>
+<pubDate>Fri, 19 Jun 2026 11:05:17 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/time_machine.mp3" length="23316624" type="audio/mpeg"/>
+<itunes:duration>24:17</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <description>時間機器。時間機器——階級分化、自動化與人類退化。世界經典的中文有聲劇場。</description>
 <itunes:summary>時間機器。時間機器——階級分化、自動化與人類退化。世界經典的中文有聲劇場。</itunes:summary>
