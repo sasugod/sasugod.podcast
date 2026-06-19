@@ -13,14 +13,24 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Fri, 19 Jun 2026 10:05:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 12:04:13 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《三國演義》第6集：玉璽出井、曹洪渡河——水的秘密比你想的重！</title>
+<guid isPermaLink="false">sangguo-Ep006</guid>
+<pubDate>Sun, 21 Jun 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep006.mp3" length="2398320" type="audio/mpeg"/>
+<itunes:duration>6:39</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第6集：玉璽出井、曹洪渡河——水的秘密比你想的重！。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第6集：玉璽出井、曹洪渡河——水的秘密比你想的重！。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>《三國演義》第5集：三英戰呂布，三打一真的有用嗎？</title>
 <guid isPermaLink="false">sangguo-Ep005</guid>
 <pubDate>Sat, 20 Jun 2026 08:00:00 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep005.mp3" length="3379053" type="audio/mpeg"/>
-<itunes:duration>6:59</itunes:duration>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep005.mp3" length="2621664" type="audio/mpeg"/>
+<itunes:duration>7:16</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <description>《三國演義》第5集：三英戰呂布，三打一真的有用嗎？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
 <itunes:summary>《三國演義》第5集：三英戰呂布，三打一真的有用嗎？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
