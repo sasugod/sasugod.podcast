@@ -13,8 +13,18 @@
 <image><url>https://podcast.sasugod.com/story-never-end_en/cover.jpg</url><title>Story Never End — Classic Literature</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Arts"/>
 <itunes:owner><itunes:name>Story Never End</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Sat, 20 Jun 2026 02:27:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 02:29:34 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_en/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The Metamorphosis</title>
+<guid isPermaLink="false">classic-en-metamorphosis</guid>
+<pubDate>Sun, 21 Jun 2026 10:12:18 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/metamorphosis.mp3" length="25349520" type="audio/mpeg"/>
+<itunes:duration>26:24</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>The Metamorphosis — An audio-theatre retelling of «The Metamorphosis».</description>
+<itunes:summary>The Metamorphosis — An audio-theatre retelling of «The Metamorphosis».</itunes:summary>
+</item>
 <item>
 <title>Dr Jekyll and Mr Hyde</title>
 <guid isPermaLink="false">classic-en-jekyll_hyde</guid>
