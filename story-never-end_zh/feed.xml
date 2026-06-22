@@ -13,8 +13,28 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Sun, 21 Jun 2026 04:04:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 00:23:48 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《西遊記》第1集：石頭裡蹦出來的孫悟空，到底是怎麼「醒」的？</title>
+<guid isPermaLink="false">xiyou-Ep001</guid>
+<pubDate>Sat, 18 Jul 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/xiyou/Ep001.mp3" length="3610224" type="audio/mpeg"/>
+<itunes:duration>10:01</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《西遊記》第1集：石頭裡蹦出來的孫悟空，到底是怎麼「醒」的？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《西遊記》第1集：石頭裡蹦出來的孫悟空，到底是怎麼「醒」的？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
+<item>
+<title>《三國演義》第10集：馬超十七歲一槍定乾坤、典韋一手擎旗不動如山——力矩平衡的奧秘！</title>
+<guid isPermaLink="false">sangguo-Ep010</guid>
+<pubDate>Thu, 25 Jun 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep010.mp3" length="2057184" type="audio/mpeg"/>
+<itunes:duration>5:42</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第10集：馬超十七歲一槍定乾坤、典韋一手擎旗不動如山——力矩平衡的奧秘！。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第10集：馬超十七歲一槍定乾坤、典韋一手擎旗不動如山——力矩平衡的奧秘！。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>《三國演義》第9集：呂布刺喉董卓死、李傕車輪戰耗盡英雄——周期騷擾的共振破壞！</title>
 <guid isPermaLink="false">sangguo-Ep009</guid>
