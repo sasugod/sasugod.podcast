@@ -13,8 +13,18 @@
 <image><url>https://podcast.sasugod.com/story-never-end_en/cover.jpg</url><title>Story Never End — Classic Literature</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Arts"/>
 <itunes:owner><itunes:name>Story Never End</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Mon, 22 Jun 2026 02:26:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 13:30:24 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_en/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dracula</title>
+<guid isPermaLink="false">classic-en-dracula</guid>
+<pubDate>Tue, 23 Jun 2026 21:12:41 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/dracula.mp3" length="25047312" type="audio/mpeg"/>
+<itunes:duration>26:05</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>Dracula — An audio-theatre retelling of «Dracula».</description>
+<itunes:summary>Dracula — An audio-theatre retelling of «Dracula».</itunes:summary>
+</item>
 <item>
 <title>Pride and Prejudice</title>
 <guid isPermaLink="false">classic-en-pride_prejudice</guid>
