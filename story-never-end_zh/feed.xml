@@ -13,7 +13,7 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Wed, 24 Jun 2026 23:49:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 00:07:19 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>《西遊記》第6集：天兵天將全敗了，降伏孫悟空的，竟是一根藏不住的尾巴？</title>
@@ -74,6 +74,16 @@
 <itunes:explicit>false</itunes:explicit>
 <description>《西遊記》第1集：石頭裡蹦出來的孫悟空，到底是怎麼「醒」的？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
 <itunes:summary>《西遊記》第1集：石頭裡蹦出來的孫悟空，到底是怎麼「醒」的？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
+<item>
+<title>《三國演義》第13集：反間計大崩潰——賽局理論拆穿豬隊友</title>
+<guid isPermaLink="false">sangguo-Ep013</guid>
+<pubDate>Sun, 28 Jun 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep013.mp3" length="1919808" type="audio/mpeg"/>
+<itunes:duration>5:19</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第13集：反間計大崩潰——賽局理論拆穿豬隊友。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第13集：反間計大崩潰——賽局理論拆穿豬隊友。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
 </item>
 <item>
 <title>《三國演義》第十二集：火燒濮陽坑擒許褚，自由落體算破陷阱術</title>
@@ -209,8 +219,8 @@
 <title>《三國演義》第1集：桃園三結義，最穩的三角形</title>
 <guid isPermaLink="false">sangguo-Ep001</guid>
 <pubDate>Tue, 16 Jun 2026 08:00:00 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep001.mp3" length="1345629" type="audio/mpeg"/>
-<itunes:duration>3:44</itunes:duration>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep001.mp3" length="1662192" type="audio/mpeg"/>
+<itunes:duration>4:37</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <description>《三國演義》第1集：桃園三結義，最穩的三角形。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
 <itunes:summary>《三國演義》第1集：桃園三結義，最穩的三角形。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
