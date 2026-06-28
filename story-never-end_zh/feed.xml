@@ -13,8 +13,28 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Sun, 28 Jun 2026 00:08:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 01:31:51 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《西遊記》第10集：唐太宗死過一次又活回來——他在地府看見的，究竟是神話還是大腦的求救訊號？</title>
+<guid isPermaLink="false">xiyou-Ep010</guid>
+<pubDate>Mon, 27 Jul 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/xiyou/Ep010.mp3" length="4069584" type="audio/mpeg"/>
+<itunes:duration>11:18</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《西遊記》第10集：唐太宗死過一次又活回來——他在地府看見的，究竟是神話還是大腦的求救訊號？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《西遊記》第10集：唐太宗死過一次又活回來——他在地府看見的，究竟是神話還是大腦的求救訊號？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
+<item>
+<title>《西遊記》第9集：算命師說中了你的死期——龍王越反抗，越走向滅亡，這是天意還是自我毀滅？</title>
+<guid isPermaLink="false">xiyou-Ep009</guid>
+<pubDate>Sun, 26 Jul 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/xiyou/Ep009.mp3" length="3896928" type="audio/mpeg"/>
+<itunes:duration>10:49</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《西遊記》第9集：算命師說中了你的死期——龍王越反抗，越走向滅亡，這是天意還是自我毀滅？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《西遊記》第9集：算命師說中了你的死期——龍王越反抗，越走向滅亡，這是天意還是自我毀滅？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>《西遊記》第8集：如來明明可以直接送經書，為何偏要讓人歷盡九九八十一難？</title>
 <guid isPermaLink="false">xiyou-Ep008</guid>
@@ -114,6 +134,16 @@
 <itunes:explicit>false</itunes:explicit>
 <description>《三國演義》第14集：張飛醉了，徐州沒了——奇襲速度的致命算術。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
 <itunes:summary>《三國演義》第14集：張飛醉了，徐州沒了——奇襲速度的致命算術。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
+<item>
+<title>傲慢與偏見</title>
+<guid isPermaLink="false">classic-zh-pride_prejudice</guid>
+<pubDate>Sun, 28 Jun 2026 09:11:56 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/pride_prejudice.mp3" length="24742032" type="audio/mpeg"/>
+<itunes:duration>25:46</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>傲慢與偏見。傲慢與偏見——婚配市場、交友軟體與階級。世界經典的中文有聲劇場。</description>
+<itunes:summary>傲慢與偏見。傲慢與偏見——婚配市場、交友軟體與階級。世界經典的中文有聲劇場。</itunes:summary>
 </item>
 <item>
 <title>《三國演義》第13集：反間計大崩潰——賽局理論拆穿豬隊友</title>

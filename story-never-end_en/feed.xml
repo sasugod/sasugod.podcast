@@ -13,7 +13,7 @@
 <image><url>https://podcast.sasugod.com/story-never-end_en/cover.jpg</url><title>Story Never End — Classic Literature</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Arts"/>
 <itunes:owner><itunes:name>Story Never End</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Sun, 28 Jun 2026 00:08:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 01:32:16 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_en/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Nineteen Eighty-Four</title>
@@ -59,8 +59,8 @@
 <title>Pride and Prejudice</title>
 <guid isPermaLink="false">classic-en-pride_prejudice</guid>
 <pubDate>Mon, 22 Jun 2026 10:11:12 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/pride_prejudice.mp3" length="22534800" type="audio/mpeg"/>
-<itunes:duration>23:28</itunes:duration>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/pride_prejudice.mp3" length="24742032" type="audio/mpeg"/>
+<itunes:duration>25:46</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <description>Pride and Prejudice — An audio-theatre retelling of «Pride and Prejudice».</description>
 <itunes:summary>Pride and Prejudice — An audio-theatre retelling of «Pride and Prejudice».</itunes:summary>
