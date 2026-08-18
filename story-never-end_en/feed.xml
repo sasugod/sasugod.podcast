@@ -13,8 +13,18 @@
 <image><url>https://podcast.sasugod.com/story-never-end_en/cover.jpg</url><title>Story Never End — Classic Literature</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Arts"/>
 <itunes:owner><itunes:name>Story Never End</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Mon, 29 Jun 2026 13:18:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 00:13:25 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_en/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Animal Farm</title>
+<guid isPermaLink="false">classic-en-animal_farm</guid>
+<pubDate>Mon, 20 Jul 2026 22:05:06 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/animal_farm.mp3" length="25837584" type="audio/mpeg"/>
+<itunes:duration>26:54</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>Animal Farm — An audio-theatre retelling of «Animal Farm».</description>
+<itunes:summary>Animal Farm — An audio-theatre retelling of «Animal Farm».</itunes:summary>
+</item>
 <item>
 <title>Brave New World</title>
 <guid isPermaLink="false">classic-en-brave_new_world</guid>
@@ -49,8 +59,8 @@
 <title>The War of the Worlds</title>
 <guid isPermaLink="false">classic-en-war_of_the_worlds</guid>
 <pubDate>Thu, 25 Jun 2026 07:38:23 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/war_of_the_worlds.mp3" length="26049168" type="audio/mpeg"/>
-<itunes:duration>27:07</itunes:duration>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/war_of_the_worlds.mp3" length="23601168" type="audio/mpeg"/>
+<itunes:duration>24:34</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <description>The War of the Worlds — An audio-theatre retelling of «The War of the Worlds».</description>
 <itunes:summary>The War of the Worlds — An audio-theatre retelling of «The War of the Worlds».</itunes:summary>
@@ -59,8 +69,8 @@
 <title>Dracula</title>
 <guid isPermaLink="false">classic-en-dracula</guid>
 <pubDate>Tue, 23 Jun 2026 21:12:41 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/dracula.mp3" length="25047312" type="audio/mpeg"/>
-<itunes:duration>26:05</itunes:duration>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/dracula.mp3" length="27398928" type="audio/mpeg"/>
+<itunes:duration>28:32</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <description>Dracula — An audio-theatre retelling of «Dracula».</description>
 <itunes:summary>Dracula — An audio-theatre retelling of «Dracula».</itunes:summary>
