@@ -13,8 +13,18 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Sat, 29 Aug 2026 00:09:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 03:01:13 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《三國演義》第60集：議取西蜀的地形幾何──球面距離計算</title>
+<guid isPermaLink="false">sangguo-Ep060</guid>
+<pubDate>Fri, 14 Aug 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep060.mp3" length="2745360" type="audio/mpeg"/>
+<itunes:duration>7:37</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第60集：議取西蜀的地形幾何──球面距離計算。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第60集：議取西蜀的地形幾何──球面距離計算。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>《三國演義》第59集：裸衣鬥將的衝量──動量定理應用</title>
 <guid isPermaLink="false">sangguo-Ep059</guid>
