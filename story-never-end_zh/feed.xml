@@ -13,8 +13,18 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Tue, 01 Sep 2026 00:04:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 07:13:10 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《三國演義》第64集：伏兵包圍的賽局均衡──囚徒困境分析</title>
+<guid isPermaLink="false">sangguo-Ep064</guid>
+<pubDate>Tue, 18 Aug 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep064.mp3" length="2525328" type="audio/mpeg"/>
+<itunes:duration>7:00</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第64集：伏兵包圍的賽局均衡──囚徒困境分析。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第64集：伏兵包圍的賽局均衡──囚徒困境分析。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>《三國演義》第63集：落鳳坡箭雨密度──泊松過程與概率</title>
 <guid isPermaLink="false">sangguo-Ep063</guid>
