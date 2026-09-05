@@ -13,8 +13,18 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Thu, 03 Sep 2026 00:06:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 00:07:29 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《三國演義》第66集：單刀赴會的膽識──風險決策期望值</title>
+<guid isPermaLink="false">sangguo-Ep066</guid>
+<pubDate>Thu, 20 Aug 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep066.mp3" length="2381040" type="audio/mpeg"/>
+<itunes:duration>6:36</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第66集：單刀赴會的膽識──風險決策期望值。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第66集：單刀赴會的膽識──風險決策期望值。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>《三國演義》第65集：葭萌關守城槓桿──力矩平衡計算</title>
 <guid isPermaLink="false">sangguo-Ep065</guid>
