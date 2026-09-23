@@ -13,8 +13,28 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Mon, 21 Sep 2026 00:07:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 00:04:59 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《三國演義》第84集：火燒連營七百里——熱能與林火蔓延速率</title>
+<guid isPermaLink="false">sangguo-Ep084</guid>
+<pubDate>Mon, 07 Sep 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep084.mp3" length="2492928" type="audio/mpeg"/>
+<itunes:duration>6:55</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第84集：火燒連營七百里——熱能與林火蔓延速率。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第84集：火燒連營七百里——熱能與林火蔓延速率。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
+<item>
+<title>《三國演義》第83集：猇亭之戰與動量傳遞——陸遜的靜待之道</title>
+<guid isPermaLink="false">sangguo-Ep083</guid>
+<pubDate>Sun, 06 Sep 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep083.mp3" length="2957616" type="audio/mpeg"/>
+<itunes:duration>8:12</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第83集：猇亭之戰與動量傳遞——陸遜的靜待之道。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第83集：猇亭之戰與動量傳遞——陸遜的靜待之道。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>《三國演義》第82集：孫權受九錫與顱骨承壓——政治冠冕的力學</title>
 <guid isPermaLink="false">sangguo-Ep082</guid>
