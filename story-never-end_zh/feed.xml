@@ -13,8 +13,18 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Mon, 05 Oct 2026 00:07:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 00:09:28 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《三國演義》第97集：姜維詐降與包圍閉合——概率合龍的戰術網</title>
+<guid isPermaLink="false">sangguo-Ep097</guid>
+<pubDate>Sun, 20 Sep 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/sangguo/Ep097.mp3" length="2809872" type="audio/mpeg"/>
+<itunes:duration>7:48</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《三國演義》第97集：姜維詐降與包圍閉合——概率合龍的戰術網。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《三國演義》第97集：姜維詐降與包圍閉合——概率合龍的戰術網。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>《三國演義》第96集：斬馬謖與衝量遞增——情感決策的力學代價</title>
 <guid isPermaLink="false">sangguo-Ep096</guid>
